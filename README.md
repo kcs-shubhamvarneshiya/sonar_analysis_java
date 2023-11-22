@@ -12,4 +12,3 @@
 - delete        : http://localhost:8080/api/delete/1
 - updateUser    : http://localhost:8080/api/update
 - swagger-ui    : http://localhost:8080/swagger-ui/index.html
-- sonar analysis
